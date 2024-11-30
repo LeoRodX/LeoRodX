@@ -1,6 +1,6 @@
-### 👋 Greetings, dear friend!  
+## 👋 Greetings, dear friend!  
 ## 🔭 Here I publish my Pets-projects! 
-# 📫 How to reach me: admxp@yandex.ru
+### 📫 How to reach me: admxp@yandex.ru
 
 <!--
 **LeoRodX/LeoRodX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
