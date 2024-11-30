@@ -1,4 +1,4 @@
-## Greetings, dear friend! Here I publish my favorite projects! 👋
+## Greetings, dear friend! 👋 Here I publish my favorite projects! 
 
 <!--
 **LeoRodX/LeoRodX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
