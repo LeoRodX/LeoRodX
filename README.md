@@ -1,5 +1,5 @@
 ## 👋 Greetings, dear friend!  
-## 🔭 Here I publish my Pets-projects! 
+## 🔭 Here I publish my Pets Projects! 
     📫 You can contact me by e-mail: admxp@yandex.ru
 
 <!--
